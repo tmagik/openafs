@@ -324,6 +324,7 @@
 #define SYS_NAME_ID_ppc64_linux22	2901
 #define SYS_NAME_ID_ppc64_linux24	2902
 #define SYS_NAME_ID_ppc64_linux26	2903
+#define SYS_NAME_ID_ppc64le_linux26	2950
 
 #define SYS_NAME_ID_amd64_fbsd_53       3008
 #define SYS_NAME_ID_amd64_fbsd_70       3009
